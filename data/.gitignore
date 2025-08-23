@@ -1,0 +1,21 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+*.log
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Local caches / indices (do NOT commit)
+pt_index/
+
+# OS
+.DS_Store
+Thumbs.db

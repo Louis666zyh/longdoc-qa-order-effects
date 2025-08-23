@@ -1,0 +1,26 @@
+retrieval,tag,topk,compare,metric,N_pairs,p_raw,p_adj,significant@0.05
+BM25+ColBERT,Baseline_vs_WithContext,1,sequential_top1 - baseline,rouge1,233,5.876378862862397e-42,5.876378862862397e-42,True
+BM25+ColBERT,Baseline_vs_WithContext,1,sequential_top1 - baseline,rouge2,233,6.536545344773368e-34,6.536545344773368e-34,True
+BM25+ColBERT,Baseline_vs_WithContext,1,sequential_top1 - baseline,rougeL,233,3.679856291629887e-31,3.679856291629887e-31,True
+BM25+ColBERT,Baseline_vs_WithContext,1,sequential_top1 - baseline,bleu,233,2.7223126045642948e-27,2.7223126045642948e-27,True
+BM25+ColBERT,Baseline_vs_WithContext,1,sequential_top1 - baseline,bertscore,233,1.0280525485688402e-34,1.0280525485688402e-34,True
+BM25+ColBERT,Baseline_vs_WithContext,2,sequential_top2 - baseline,rouge1,233,1.6885325528807637e-50,1.6885325528807637e-50,True
+BM25+ColBERT,Baseline_vs_WithContext,2,sequential_top2 - baseline,rouge2,233,1.1256997386633102e-41,1.1256997386633102e-41,True
+BM25+ColBERT,Baseline_vs_WithContext,2,sequential_top2 - baseline,rougeL,233,3.3063224910835434e-35,3.3063224910835434e-35,True
+BM25+ColBERT,Baseline_vs_WithContext,2,sequential_top2 - baseline,bleu,233,6.5100574983805264e-34,6.5100574983805264e-34,True
+BM25+ColBERT,Baseline_vs_WithContext,2,sequential_top2 - baseline,bertscore,233,1.2878984388293236e-57,1.2878984388293236e-57,True
+BM25+ColBERT,Baseline_vs_WithContext,3,sequential_top3 - baseline,rouge1,233,3.053564791431298e-54,3.053564791431298e-54,True
+BM25+ColBERT,Baseline_vs_WithContext,3,sequential_top3 - baseline,rouge2,233,1.1294073371012874e-46,1.1294073371012874e-46,True
+BM25+ColBERT,Baseline_vs_WithContext,3,sequential_top3 - baseline,rougeL,233,1.329226455266641e-37,1.329226455266641e-37,True
+BM25+ColBERT,Baseline_vs_WithContext,3,sequential_top3 - baseline,bleu,233,6.614230661731022e-37,6.614230661731022e-37,True
+BM25+ColBERT,Baseline_vs_WithContext,3,sequential_top3 - baseline,bertscore,233,1.013204952725267e-59,1.013204952725267e-59,True
+BM25+ColBERT,Baseline_vs_WithContext,4,sequential_top4 - baseline,rouge1,233,7.95567719186106e-58,7.95567719186106e-58,True
+BM25+ColBERT,Baseline_vs_WithContext,4,sequential_top4 - baseline,rouge2,233,1.054680635688439e-45,1.054680635688439e-45,True
+BM25+ColBERT,Baseline_vs_WithContext,4,sequential_top4 - baseline,rougeL,233,1.57343366128086e-39,1.57343366128086e-39,True
+BM25+ColBERT,Baseline_vs_WithContext,4,sequential_top4 - baseline,bleu,233,6.743477136456995e-36,6.743477136456995e-36,True
+BM25+ColBERT,Baseline_vs_WithContext,4,sequential_top4 - baseline,bertscore,233,4.905665243810411e-64,4.905665243810411e-64,True
+BM25+ColBERT,Baseline_vs_WithContext,5,sequential_top5 - baseline,rouge1,233,1.5430212897848113e-53,1.5430212897848113e-53,True
+BM25+ColBERT,Baseline_vs_WithContext,5,sequential_top5 - baseline,rouge2,233,1.930515291004108e-48,1.930515291004108e-48,True
+BM25+ColBERT,Baseline_vs_WithContext,5,sequential_top5 - baseline,rougeL,233,4.742251419874587e-39,4.742251419874587e-39,True
+BM25+ColBERT,Baseline_vs_WithContext,5,sequential_top5 - baseline,bleu,233,4.746271637012825e-41,4.746271637012825e-41,True
+BM25+ColBERT,Baseline_vs_WithContext,5,sequential_top5 - baseline,bertscore,233,3.5945245036119114e-60,3.5945245036119114e-60,True

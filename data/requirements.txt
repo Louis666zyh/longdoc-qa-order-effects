@@ -1,0 +1,18 @@
+# Deep learning stack
+torch>=2.2
+transformers==4.40.2
+accelerate
+bitsandbytes
+
+# Retrieval / IR
+python-terrier
+colbert-ai
+
+# FAISS (GPU build for CUDA 11). On CPU-only, replace this line with:  faiss-cpu
+faiss-gpu-cu11==1.10.0
+
+# Datasets & evaluation
+datasets
+rouge-score
+nltk
+bert-score

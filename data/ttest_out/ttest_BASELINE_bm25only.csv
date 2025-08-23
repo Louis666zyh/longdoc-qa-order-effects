@@ -1,0 +1,26 @@
+retrieval,tag,topk,compare,metric,N_pairs,p_raw,p_adj,significant@0.05
+BM25only,Baseline_vs_WithContext,1,sequential_top1 - baseline,rouge1,233,2.5528090430733274e-39,2.5528090430733274e-39,True
+BM25only,Baseline_vs_WithContext,1,sequential_top1 - baseline,rouge2,233,1.0942411466709695e-30,1.0942411466709695e-30,True
+BM25only,Baseline_vs_WithContext,1,sequential_top1 - baseline,rougeL,233,4.118087656307225e-31,4.118087656307225e-31,True
+BM25only,Baseline_vs_WithContext,1,sequential_top1 - baseline,bleu,233,8.063833679008345e-25,8.063833679008345e-25,True
+BM25only,Baseline_vs_WithContext,1,sequential_top1 - baseline,bertscore,233,3.5719290284153554e-36,3.5719290284153554e-36,True
+BM25only,Baseline_vs_WithContext,2,sequential_top2 - baseline,rouge1,233,3.16650792564273e-45,3.16650792564273e-45,True
+BM25only,Baseline_vs_WithContext,2,sequential_top2 - baseline,rouge2,233,2.7489006503022086e-35,2.7489006503022086e-35,True
+BM25only,Baseline_vs_WithContext,2,sequential_top2 - baseline,rougeL,233,1.2743925817970074e-29,1.2743925817970074e-29,True
+BM25only,Baseline_vs_WithContext,2,sequential_top2 - baseline,bleu,233,4.954276282229346e-28,4.954276282229346e-28,True
+BM25only,Baseline_vs_WithContext,2,sequential_top2 - baseline,bertscore,233,3.5425969890225296e-49,3.5425969890225296e-49,True
+BM25only,Baseline_vs_WithContext,3,sequential_top3 - baseline,rouge1,233,7.960258262227347e-51,7.960258262227347e-51,True
+BM25only,Baseline_vs_WithContext,3,sequential_top3 - baseline,rouge2,233,2.8419313328990357e-41,2.8419313328990357e-41,True
+BM25only,Baseline_vs_WithContext,3,sequential_top3 - baseline,rougeL,233,7.186678394446012e-34,7.186678394446012e-34,True
+BM25only,Baseline_vs_WithContext,3,sequential_top3 - baseline,bleu,233,2.541935308184332e-35,2.541935308184332e-35,True
+BM25only,Baseline_vs_WithContext,3,sequential_top3 - baseline,bertscore,233,5.328505247462242e-62,5.328505247462242e-62,True
+BM25only,Baseline_vs_WithContext,4,sequential_top4 - baseline,rouge1,233,4.762107019551293e-51,4.762107019551293e-51,True
+BM25only,Baseline_vs_WithContext,4,sequential_top4 - baseline,rouge2,233,8.825638861934541e-43,8.825638861934541e-43,True
+BM25only,Baseline_vs_WithContext,4,sequential_top4 - baseline,rougeL,233,1.1001798331062696e-34,1.1001798331062696e-34,True
+BM25only,Baseline_vs_WithContext,4,sequential_top4 - baseline,bleu,233,2.3134955069094768e-35,2.3134955069094768e-35,True
+BM25only,Baseline_vs_WithContext,4,sequential_top4 - baseline,bertscore,233,4.6746768285613664e-60,4.6746768285613664e-60,True
+BM25only,Baseline_vs_WithContext,5,sequential_top5 - baseline,rouge1,233,7.691035530863631e-54,7.691035530863631e-54,True
+BM25only,Baseline_vs_WithContext,5,sequential_top5 - baseline,rouge2,233,4.9649994207879295e-46,4.9649994207879295e-46,True
+BM25only,Baseline_vs_WithContext,5,sequential_top5 - baseline,rougeL,233,5.981606934234505e-37,5.981606934234505e-37,True
+BM25only,Baseline_vs_WithContext,5,sequential_top5 - baseline,bleu,233,1.4703956985867716e-36,1.4703956985867716e-36,True
+BM25only,Baseline_vs_WithContext,5,sequential_top5 - baseline,bertscore,233,1.8134026414649274e-62,1.8134026414649274e-62,True

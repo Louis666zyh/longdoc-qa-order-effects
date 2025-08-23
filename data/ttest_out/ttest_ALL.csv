@@ -1,0 +1,251 @@
+retrieval,tag,topk,compare,metric,N_pairs,p_raw,p_adj,significant@0.05
+BM25+ColBERT,RQ2_order_effect,2,reversed - sequential,rouge1,233,0.011254494766764371,0.011254494766764371,True
+BM25+ColBERT,RQ2_order_effect,2,reversed - sequential,rouge2,233,0.029976573580717238,0.029976573580717238,True
+BM25+ColBERT,RQ2_order_effect,2,reversed - sequential,rougeL,233,0.04551132467813851,0.04551132467813851,True
+BM25+ColBERT,RQ2_order_effect,2,reversed - sequential,bleu,233,0.027311310145063338,0.027311310145063338,True
+BM25+ColBERT,RQ2_order_effect,2,reversed - sequential,bertscore,233,0.16707271959396774,0.16707271959396774,False
+BM25+ColBERT,RQ2_order_effect,3,reversed - sequential,rouge1,233,0.16345002771475292,0.49035008314425876,False
+BM25+ColBERT,RQ2_order_effect,3,reversed - sequential,rouge2,233,0.16466643780101625,0.49399931340304876,False
+BM25+ColBERT,RQ2_order_effect,3,reversed - sequential,rougeL,233,0.48148179342560093,1.0,False
+BM25+ColBERT,RQ2_order_effect,3,reversed - sequential,bleu,233,0.2682548026276555,0.8047644078829665,False
+BM25+ColBERT,RQ2_order_effect,3,reversed - sequential,bertscore,233,0.49254857590763856,1.0,False
+BM25+ColBERT,RQ2_order_effect,3,reversed - shuffled,rouge1,233,0.3843259974542548,0.7686519949085096,False
+BM25+ColBERT,RQ2_order_effect,3,reversed - shuffled,rouge2,233,0.8063449282593119,0.8063449282593119,False
+BM25+ColBERT,RQ2_order_effect,3,reversed - shuffled,rougeL,233,0.7602758721421357,1.0,False
+BM25+ColBERT,RQ2_order_effect,3,reversed - shuffled,bleu,233,0.9594582924571087,0.9594582924571087,False
+BM25+ColBERT,RQ2_order_effect,3,reversed - shuffled,bertscore,233,0.8404869295509937,1.0,False
+BM25+ColBERT,RQ2_order_effect,3,sequential - shuffled,rouge1,233,0.5440933303978941,0.7686519949085096,False
+BM25+ColBERT,RQ2_order_effect,3,sequential - shuffled,rouge2,233,0.2124681181911765,0.49399931340304876,False
+BM25+ColBERT,RQ2_order_effect,3,sequential - shuffled,rougeL,233,0.6784021360478107,1.0,False
+BM25+ColBERT,RQ2_order_effect,3,sequential - shuffled,bleu,233,0.2727785641690092,0.8047644078829665,False
+BM25+ColBERT,RQ2_order_effect,3,sequential - shuffled,bertscore,233,0.35461526387539155,1.0,False
+BM25+ColBERT,RQ2_order_effect,4,reversed - sequential,rouge1,233,0.006693637041314117,0.02008091112394235,True
+BM25+ColBERT,RQ2_order_effect,4,reversed - sequential,rouge2,233,0.07322391103910304,0.1614147139070996,False
+BM25+ColBERT,RQ2_order_effect,4,reversed - sequential,rougeL,233,0.16502332276162476,0.3300466455232495,False
+BM25+ColBERT,RQ2_order_effect,4,reversed - sequential,bleu,233,0.2546048815482937,0.5092097630965874,False
+BM25+ColBERT,RQ2_order_effect,4,reversed - sequential,bertscore,233,0.0005848295693433659,0.0017544887080300977,True
+BM25+ColBERT,RQ2_order_effect,4,reversed - shuffled,rouge1,233,0.05738965699400277,0.11477931398800555,False
+BM25+ColBERT,RQ2_order_effect,4,reversed - shuffled,rouge2,233,0.05380490463569987,0.1614147139070996,False
+BM25+ColBERT,RQ2_order_effect,4,reversed - shuffled,rougeL,233,0.03454745724674587,0.1036423717402376,False
+BM25+ColBERT,RQ2_order_effect,4,reversed - shuffled,bleu,233,0.044665154971939014,0.13399546491581704,False
+BM25+ColBERT,RQ2_order_effect,4,reversed - shuffled,bertscore,233,0.07604411986356505,0.1520882397271301,False
+BM25+ColBERT,RQ2_order_effect,4,sequential - shuffled,rouge1,233,0.30074066004077155,0.30074066004077155,False
+BM25+ColBERT,RQ2_order_effect,4,sequential - shuffled,rouge2,233,0.9239259532513474,0.9239259532513474,False
+BM25+ColBERT,RQ2_order_effect,4,sequential - shuffled,rougeL,233,0.6899387707619191,0.6899387707619191,False
+BM25+ColBERT,RQ2_order_effect,4,sequential - shuffled,bleu,233,0.5847823848439222,0.5847823848439222,False
+BM25+ColBERT,RQ2_order_effect,4,sequential - shuffled,bertscore,233,0.11713513182777131,0.1520882397271301,False
+BM25+ColBERT,RQ2_order_effect,5,reversed - sequential,rouge1,233,0.007705119411442429,0.023115358234327286,True
+BM25+ColBERT,RQ2_order_effect,5,reversed - sequential,rouge2,233,0.05654041079458698,0.11308082158917396,False
+BM25+ColBERT,RQ2_order_effect,5,reversed - sequential,rougeL,233,0.07868281361458251,0.15736562722916503,False
+BM25+ColBERT,RQ2_order_effect,5,reversed - sequential,bleu,233,0.16388591736325364,0.3277718347265073,False
+BM25+ColBERT,RQ2_order_effect,5,reversed - sequential,bertscore,233,0.3794028770733727,0.5407854776211706,False
+BM25+ColBERT,RQ2_order_effect,5,reversed - shuffled,rouge1,233,0.02581365320804929,0.05162730641609858,False
+BM25+ColBERT,RQ2_order_effect,5,reversed - shuffled,rouge2,233,0.017228523602708528,0.05168557080812558,False
+BM25+ColBERT,RQ2_order_effect,5,reversed - shuffled,rougeL,233,0.031586567300287194,0.09475970190086158,False
+BM25+ColBERT,RQ2_order_effect,5,reversed - shuffled,bleu,233,0.07583858824456242,0.2275157647336873,False
+BM25+ColBERT,RQ2_order_effect,5,reversed - shuffled,bertscore,233,0.057887953372469186,0.17366386011740756,False
+BM25+ColBERT,RQ2_order_effect,5,sequential - shuffled,rouge1,233,0.6806276531407298,0.6806276531407298,False
+BM25+ColBERT,RQ2_order_effect,5,sequential - shuffled,rouge2,233,0.6244534422085972,0.6244534422085972,False
+BM25+ColBERT,RQ2_order_effect,5,sequential - shuffled,rougeL,233,0.666003837505108,0.666003837505108,False
+BM25+ColBERT,RQ2_order_effect,5,sequential - shuffled,bleu,233,0.649338951764717,0.649338951764717,False
+BM25+ColBERT,RQ2_order_effect,5,sequential - shuffled,bertscore,233,0.2703927388105853,0.5407854776211706,False
+BM25only,RQ2_order_effect,2,reversed - sequential,rouge1,233,0.07399881958251969,0.07399881958251969,False
+BM25only,RQ2_order_effect,2,reversed - sequential,rouge2,233,0.07704426023653231,0.07704426023653231,False
+BM25only,RQ2_order_effect,2,reversed - sequential,rougeL,233,0.29134113218717594,0.29134113218717594,False
+BM25only,RQ2_order_effect,2,reversed - sequential,bleu,233,0.07890479475134606,0.07890479475134606,False
+BM25only,RQ2_order_effect,2,reversed - sequential,bertscore,233,0.20261921103488914,0.20261921103488914,False
+BM25only,RQ2_order_effect,3,reversed - sequential,rouge1,233,0.04770216570266125,0.14310649710798376,False
+BM25only,RQ2_order_effect,3,reversed - sequential,rouge2,233,0.5400068584511555,1.0,False
+BM25only,RQ2_order_effect,3,reversed - sequential,rougeL,233,0.8998701736412358,1.0,False
+BM25only,RQ2_order_effect,3,reversed - sequential,bleu,233,0.9876574104537503,1.0,False
+BM25only,RQ2_order_effect,3,reversed - sequential,bertscore,233,0.6185157758397605,1.0,False
+BM25only,RQ2_order_effect,3,reversed - shuffled,rouge1,233,0.12285218902779599,0.24570437805559198,False
+BM25only,RQ2_order_effect,3,reversed - shuffled,rouge2,233,0.3756546423165652,1.0,False
+BM25only,RQ2_order_effect,3,reversed - shuffled,rougeL,233,0.6852173790594521,1.0,False
+BM25only,RQ2_order_effect,3,reversed - shuffled,bleu,233,0.9466155267681138,1.0,False
+BM25only,RQ2_order_effect,3,reversed - shuffled,bertscore,233,0.906446828175777,1.0,False
+BM25only,RQ2_order_effect,3,sequential - shuffled,rouge1,233,0.5858261810802009,0.5858261810802009,False
+BM25only,RQ2_order_effect,3,sequential - shuffled,rouge2,233,0.8565529309326725,1.0,False
+BM25only,RQ2_order_effect,3,sequential - shuffled,rougeL,233,0.6342868786735637,1.0,False
+BM25only,RQ2_order_effect,3,sequential - shuffled,bleu,233,0.9403171370771617,1.0,False
+BM25only,RQ2_order_effect,3,sequential - shuffled,bertscore,233,0.6755137980602492,1.0,False
+BM25only,RQ2_order_effect,4,reversed - sequential,rouge1,233,0.5811176088382703,1.0,False
+BM25only,RQ2_order_effect,4,reversed - sequential,rouge2,233,0.9441941575386916,1.0,False
+BM25only,RQ2_order_effect,4,reversed - sequential,rougeL,233,0.7032988937224458,1.0,False
+BM25only,RQ2_order_effect,4,reversed - sequential,bleu,233,0.838459647932437,1.0,False
+BM25only,RQ2_order_effect,4,reversed - sequential,bertscore,233,0.9448399807550589,1.0,False
+BM25only,RQ2_order_effect,4,reversed - shuffled,rouge1,233,0.8816748401079406,1.0,False
+BM25only,RQ2_order_effect,4,reversed - shuffled,rouge2,233,0.5232891019298791,1.0,False
+BM25only,RQ2_order_effect,4,reversed - shuffled,rougeL,233,0.6210822207611032,1.0,False
+BM25only,RQ2_order_effect,4,reversed - shuffled,bleu,233,0.6461478357999554,1.0,False
+BM25only,RQ2_order_effect,4,reversed - shuffled,bertscore,233,0.6490793447483304,1.0,False
+BM25only,RQ2_order_effect,4,sequential - shuffled,rouge1,233,0.47710863731970066,1.0,False
+BM25only,RQ2_order_effect,4,sequential - shuffled,rouge2,233,0.46629013609421577,1.0,False
+BM25only,RQ2_order_effect,4,sequential - shuffled,rougeL,233,0.35883285110064167,1.0,False
+BM25only,RQ2_order_effect,4,sequential - shuffled,bleu,233,0.7759980415926873,1.0,False
+BM25only,RQ2_order_effect,4,sequential - shuffled,bertscore,233,0.5791510320470734,1.0,False
+BM25only,RQ2_order_effect,5,reversed - sequential,rouge1,233,0.002867919597331632,0.008603758791994896,True
+BM25only,RQ2_order_effect,5,reversed - sequential,rouge2,233,0.010465813440131722,0.03139744032039517,True
+BM25only,RQ2_order_effect,5,reversed - sequential,rougeL,233,0.011313817302624414,0.03394145190787324,True
+BM25only,RQ2_order_effect,5,reversed - sequential,bleu,233,0.014588337969334198,0.043765013908002595,True
+BM25only,RQ2_order_effect,5,reversed - sequential,bertscore,233,0.5045673297215173,1.0,False
+BM25only,RQ2_order_effect,5,reversed - shuffled,rouge1,233,0.29304345535157433,0.29304345535157433,False
+BM25only,RQ2_order_effect,5,reversed - shuffled,rouge2,233,0.2649111096328931,0.2649111096328931,False
+BM25only,RQ2_order_effect,5,reversed - shuffled,rougeL,233,0.38811268317504966,0.38811268317504966,False
+BM25only,RQ2_order_effect,5,reversed - shuffled,bleu,233,0.30334982056934245,0.30334982056934245,False
+BM25only,RQ2_order_effect,5,reversed - shuffled,bertscore,233,0.3863209202431739,1.0,False
+BM25only,RQ2_order_effect,5,sequential - shuffled,rouge1,233,0.03939680362714871,0.07879360725429742,False
+BM25only,RQ2_order_effect,5,sequential - shuffled,rouge2,233,0.09257033098675126,0.1851406619735025,False
+BM25only,RQ2_order_effect,5,sequential - shuffled,rougeL,233,0.08896602511430386,0.17793205022860772,False
+BM25only,RQ2_order_effect,5,sequential - shuffled,bleu,233,0.11612430798056163,0.23224861596112326,False
+BM25only,RQ2_order_effect,5,sequential - shuffled,bertscore,233,0.7964150292273687,1.0,False
+BM25+ColBERT,RQ1_context_length,1 vs 2,top1 - top2,rouge1,233,0.04544128930536261,0.04544128930536261,True
+BM25+ColBERT,RQ1_context_length,1 vs 2,top1 - top2,rouge2,233,0.02660034867107937,0.02660034867107937,True
+BM25+ColBERT,RQ1_context_length,1 vs 2,top1 - top2,rougeL,233,0.09249866514448753,0.09249866514448753,False
+BM25+ColBERT,RQ1_context_length,1 vs 2,top1 - top2,bleu,233,0.027342068167152327,0.027342068167152327,True
+BM25+ColBERT,RQ1_context_length,1 vs 2,top1 - top2,bertscore,233,1.926766366782824e-07,1.926766366782824e-07,True
+BM25+ColBERT,RQ1_context_length,1 vs 3,top1 - top3,rouge1,233,0.00021434443993253825,0.00021434443993253825,True
+BM25+ColBERT,RQ1_context_length,1 vs 3,top1 - top3,rouge2,233,0.0018678877727781287,0.0018678877727781287,True
+BM25+ColBERT,RQ1_context_length,1 vs 3,top1 - top3,rougeL,233,0.0035487589124093724,0.0035487589124093724,True
+BM25+ColBERT,RQ1_context_length,1 vs 3,top1 - top3,bleu,233,0.002180204757376247,0.002180204757376247,True
+BM25+ColBERT,RQ1_context_length,1 vs 3,top1 - top3,bertscore,233,5.152940201256157e-14,5.152940201256157e-14,True
+BM25+ColBERT,RQ1_context_length,1 vs 4,top1 - top4,rouge1,233,2.656813548344691e-05,2.656813548344691e-05,True
+BM25+ColBERT,RQ1_context_length,1 vs 4,top1 - top4,rouge2,233,8.307684493821515e-05,8.307684493821515e-05,True
+BM25+ColBERT,RQ1_context_length,1 vs 4,top1 - top4,rougeL,233,0.0003337587532814841,0.0003337587532814841,True
+BM25+ColBERT,RQ1_context_length,1 vs 4,top1 - top4,bleu,233,1.6224925802179394e-05,1.6224925802179394e-05,True
+BM25+ColBERT,RQ1_context_length,1 vs 4,top1 - top4,bertscore,233,1.6104775393835474e-13,1.6104775393835474e-13,True
+BM25+ColBERT,RQ1_context_length,1 vs 5,top1 - top5,rouge1,233,0.012950973127831994,0.012950973127831994,True
+BM25+ColBERT,RQ1_context_length,1 vs 5,top1 - top5,rouge2,233,0.04283678481684602,0.04283678481684602,True
+BM25+ColBERT,RQ1_context_length,1 vs 5,top1 - top5,rougeL,233,0.11465916438876358,0.11465916438876358,False
+BM25+ColBERT,RQ1_context_length,1 vs 5,top1 - top5,bleu,233,0.02741951872252416,0.02741951872252416,True
+BM25+ColBERT,RQ1_context_length,1 vs 5,top1 - top5,bertscore,233,6.0166977671409044e-12,6.0166977671409044e-12,True
+BM25+ColBERT,RQ1_context_length,2 vs 3,top2 - top3,rouge1,233,0.030923929643296124,0.030923929643296124,True
+BM25+ColBERT,RQ1_context_length,2 vs 3,top2 - top3,rouge2,233,0.2620158835320626,0.2620158835320626,False
+BM25+ColBERT,RQ1_context_length,2 vs 3,top2 - top3,rougeL,233,0.15372187910363289,0.15372187910363289,False
+BM25+ColBERT,RQ1_context_length,2 vs 3,top2 - top3,bleu,233,0.2607142271067906,0.2607142271067906,False
+BM25+ColBERT,RQ1_context_length,2 vs 3,top2 - top3,bertscore,233,0.007237942093696391,0.007237942093696391,True
+BM25+ColBERT,RQ1_context_length,2 vs 4,top2 - top4,rouge1,233,0.015077386840774623,0.015077386840774623,True
+BM25+ColBERT,RQ1_context_length,2 vs 4,top2 - top4,rouge2,233,0.051862814568802616,0.051862814568802616,False
+BM25+ColBERT,RQ1_context_length,2 vs 4,top2 - top4,rougeL,233,0.042577866796987614,0.042577866796987614,True
+BM25+ColBERT,RQ1_context_length,2 vs 4,top2 - top4,bleu,233,0.027127046501941122,0.027127046501941122,True
+BM25+ColBERT,RQ1_context_length,2 vs 4,top2 - top4,bertscore,233,0.0025851699852670585,0.0025851699852670585,True
+BM25+ColBERT,RQ1_context_length,2 vs 5,top2 - top5,rouge1,233,0.4857725110600657,0.4857725110600657,False
+BM25+ColBERT,RQ1_context_length,2 vs 5,top2 - top5,rouge2,233,0.9909810122090781,0.9909810122090781,False
+BM25+ColBERT,RQ1_context_length,2 vs 5,top2 - top5,rougeL,233,0.9829314685068365,0.9829314685068365,False
+BM25+ColBERT,RQ1_context_length,2 vs 5,top2 - top5,bleu,233,0.8927426225233002,0.8927426225233002,False
+BM25+ColBERT,RQ1_context_length,2 vs 5,top2 - top5,bertscore,233,0.060117211109059654,0.060117211109059654,False
+BM25+ColBERT,RQ1_context_length,3 vs 4,top3 - top4,rouge1,233,0.6706245882713455,0.6706245882713455,False
+BM25+ColBERT,RQ1_context_length,3 vs 4,top3 - top4,rouge2,233,0.29565554853259407,0.29565554853259407,False
+BM25+ColBERT,RQ1_context_length,3 vs 4,top3 - top4,rougeL,233,0.435184646118555,0.435184646118555,False
+BM25+ColBERT,RQ1_context_length,3 vs 4,top3 - top4,bleu,233,0.21308209588814178,0.21308209588814178,False
+BM25+ColBERT,RQ1_context_length,3 vs 4,top3 - top4,bertscore,233,0.7092759572304109,0.7092759572304109,False
+BM25+ColBERT,RQ1_context_length,3 vs 5,top3 - top5,rouge1,233,0.11302945810913828,0.11302945810913828,False
+BM25+ColBERT,RQ1_context_length,3 vs 5,top3 - top5,rouge2,233,0.23564420695921662,0.23564420695921662,False
+BM25+ColBERT,RQ1_context_length,3 vs 5,top3 - top5,rougeL,233,0.13910843224124264,0.13910843224124264,False
+BM25+ColBERT,RQ1_context_length,3 vs 5,top3 - top5,bleu,233,0.28378141195124357,0.28378141195124357,False
+BM25+ColBERT,RQ1_context_length,3 vs 5,top3 - top5,bertscore,233,0.3753321365322505,0.3753321365322505,False
+BM25+ColBERT,RQ1_context_length,4 vs 5,top4 - top5,rouge1,233,0.05718878042579923,0.05718878042579923,False
+BM25+ColBERT,RQ1_context_length,4 vs 5,top4 - top5,rouge2,233,0.0310918642811253,0.0310918642811253,True
+BM25+ColBERT,RQ1_context_length,4 vs 5,top4 - top5,rougeL,233,0.02114223972690819,0.02114223972690819,True
+BM25+ColBERT,RQ1_context_length,4 vs 5,top4 - top5,bleu,233,0.01902092102356681,0.01902092102356681,True
+BM25+ColBERT,RQ1_context_length,4 vs 5,top4 - top5,bertscore,233,0.21584181624935625,0.21584181624935625,False
+BM25only,RQ1_context_length,1 vs 2,top1 - top2,rouge1,233,0.02167510970268544,0.02167510970268544,True
+BM25only,RQ1_context_length,1 vs 2,top1 - top2,rouge2,233,0.012610851763073874,0.012610851763073874,True
+BM25only,RQ1_context_length,1 vs 2,top1 - top2,rougeL,233,0.09265443911651924,0.09265443911651924,False
+BM25only,RQ1_context_length,1 vs 2,top1 - top2,bleu,233,0.01855815270488086,0.01855815270488086,True
+BM25only,RQ1_context_length,1 vs 2,top1 - top2,bertscore,233,7.514097051779904e-07,7.514097051779904e-07,True
+BM25only,RQ1_context_length,1 vs 3,top1 - top3,rouge1,233,2.3487398370765303e-06,2.3487398370765303e-06,True
+BM25only,RQ1_context_length,1 vs 3,top1 - top3,rouge2,233,1.7302503296266405e-07,1.7302503296266405e-07,True
+BM25only,RQ1_context_length,1 vs 3,top1 - top3,rougeL,233,2.5172279371410566e-05,2.5172279371410566e-05,True
+BM25only,RQ1_context_length,1 vs 3,top1 - top3,bleu,233,1.8807983358662307e-07,1.8807983358662307e-07,True
+BM25only,RQ1_context_length,1 vs 3,top1 - top3,bertscore,233,1.1344028001320658e-18,1.1344028001320658e-18,True
+BM25only,RQ1_context_length,1 vs 4,top1 - top4,rouge1,233,4.4188030036360966e-07,4.4188030036360966e-07,True
+BM25only,RQ1_context_length,1 vs 4,top1 - top4,rouge2,233,7.648095237209609e-07,7.648095237209609e-07,True
+BM25only,RQ1_context_length,1 vs 4,top1 - top4,rougeL,233,0.0001152131855612749,0.0001152131855612749,True
+BM25only,RQ1_context_length,1 vs 4,top1 - top4,bleu,233,1.2351188962904508e-06,1.2351188962904508e-06,True
+BM25only,RQ1_context_length,1 vs 4,top1 - top4,bertscore,233,4.010889039244531e-16,4.010889039244531e-16,True
+BM25only,RQ1_context_length,1 vs 5,top1 - top5,rouge1,233,0.00015565083271298086,0.00015565083271298086,True
+BM25only,RQ1_context_length,1 vs 5,top1 - top5,rouge2,233,0.0004318206739828712,0.0004318206739828712,True
+BM25only,RQ1_context_length,1 vs 5,top1 - top5,rougeL,233,0.007348281441449263,0.007348281441449263,True
+BM25only,RQ1_context_length,1 vs 5,top1 - top5,bleu,233,0.00069829017277384,0.00069829017277384,True
+BM25only,RQ1_context_length,1 vs 5,top1 - top5,bertscore,233,4.562369636928136e-15,4.562369636928136e-15,True
+BM25only,RQ1_context_length,2 vs 3,top2 - top3,rouge1,233,0.00034721625063145945,0.00034721625063145945,True
+BM25only,RQ1_context_length,2 vs 3,top2 - top3,rouge2,233,0.000159050692489949,0.000159050692489949,True
+BM25only,RQ1_context_length,2 vs 3,top2 - top3,rougeL,233,0.0016770104695813725,0.0016770104695813725,True
+BM25only,RQ1_context_length,2 vs 3,top2 - top3,bleu,233,9.021802646375746e-05,9.021802646375746e-05,True
+BM25only,RQ1_context_length,2 vs 3,top2 - top3,bertscore,233,2.09701023876624e-09,2.09701023876624e-09,True
+BM25only,RQ1_context_length,2 vs 4,top2 - top4,rouge1,233,3.516534110047076e-05,3.516534110047076e-05,True
+BM25only,RQ1_context_length,2 vs 4,top2 - top4,rouge2,233,0.00021959302776424996,0.00021959302776424996,True
+BM25only,RQ1_context_length,2 vs 4,top2 - top4,rougeL,233,0.0032283277636782647,0.0032283277636782647,True
+BM25only,RQ1_context_length,2 vs 4,top2 - top4,bleu,233,0.00023824459077764103,0.00023824459077764103,True
+BM25only,RQ1_context_length,2 vs 4,top2 - top4,bertscore,233,5.788887254912335e-07,5.788887254912335e-07,True
+BM25only,RQ1_context_length,2 vs 5,top2 - top5,rouge1,233,0.029488938741255338,0.029488938741255338,True
+BM25only,RQ1_context_length,2 vs 5,top2 - top5,rouge2,233,0.14704320175595645,0.14704320175595645,False
+BM25only,RQ1_context_length,2 vs 5,top2 - top5,rougeL,233,0.2746634353230193,0.2746634353230193,False
+BM25only,RQ1_context_length,2 vs 5,top2 - top5,bleu,233,0.16318516374265446,0.16318516374265446,False
+BM25only,RQ1_context_length,2 vs 5,top2 - top5,bertscore,233,2.1746699955115836e-05,2.1746699955115836e-05,True
+BM25only,RQ1_context_length,3 vs 4,top3 - top4,rouge1,233,0.4294825286681655,0.4294825286681655,False
+BM25only,RQ1_context_length,3 vs 4,top3 - top4,rouge2,233,0.96844876156063,0.96844876156063,False
+BM25only,RQ1_context_length,3 vs 4,top3 - top4,rougeL,233,0.8101103935527032,0.8101103935527032,False
+BM25only,RQ1_context_length,3 vs 4,top3 - top4,bleu,233,0.885523686657806,0.885523686657806,False
+BM25only,RQ1_context_length,3 vs 4,top3 - top4,bertscore,233,0.3420062238293371,0.3420062238293371,False
+BM25only,RQ1_context_length,3 vs 5,top3 - top5,rouge1,233,0.24353747598123435,0.24353747598123435,False
+BM25only,RQ1_context_length,3 vs 5,top3 - top5,rouge2,233,0.05600220260053106,0.05600220260053106,False
+BM25only,RQ1_context_length,3 vs 5,top3 - top5,rougeL,233,0.08127364958423064,0.08127364958423064,False
+BM25only,RQ1_context_length,3 vs 5,top3 - top5,bleu,233,0.03343514224000458,0.03343514224000458,True
+BM25only,RQ1_context_length,3 vs 5,top3 - top5,bertscore,233,0.14472254503122498,0.14472254503122498,False
+BM25only,RQ1_context_length,4 vs 5,top4 - top5,rouge1,233,0.040214437478067945,0.040214437478067945,True
+BM25only,RQ1_context_length,4 vs 5,top4 - top5,rouge2,233,0.03374040366077619,0.03374040366077619,True
+BM25only,RQ1_context_length,4 vs 5,top4 - top5,rougeL,233,0.09264488929485397,0.09264488929485397,False
+BM25only,RQ1_context_length,4 vs 5,top4 - top5,bleu,233,0.03048047024192096,0.03048047024192096,True
+BM25only,RQ1_context_length,4 vs 5,top4 - top5,bertscore,233,0.5113904060130416,0.5113904060130416,False
+BM25+ColBERT,Baseline_vs_WithContext,1,sequential_top1 - baseline,rouge1,233,5.876378862862397e-42,5.876378862862397e-42,True
+BM25+ColBERT,Baseline_vs_WithContext,1,sequential_top1 - baseline,rouge2,233,6.536545344773368e-34,6.536545344773368e-34,True
+BM25+ColBERT,Baseline_vs_WithContext,1,sequential_top1 - baseline,rougeL,233,3.679856291629887e-31,3.679856291629887e-31,True
+BM25+ColBERT,Baseline_vs_WithContext,1,sequential_top1 - baseline,bleu,233,2.7223126045642948e-27,2.7223126045642948e-27,True
+BM25+ColBERT,Baseline_vs_WithContext,1,sequential_top1 - baseline,bertscore,233,1.0280525485688402e-34,1.0280525485688402e-34,True
+BM25+ColBERT,Baseline_vs_WithContext,2,sequential_top2 - baseline,rouge1,233,1.6885325528807637e-50,1.6885325528807637e-50,True
+BM25+ColBERT,Baseline_vs_WithContext,2,sequential_top2 - baseline,rouge2,233,1.1256997386633102e-41,1.1256997386633102e-41,True
+BM25+ColBERT,Baseline_vs_WithContext,2,sequential_top2 - baseline,rougeL,233,3.3063224910835434e-35,3.3063224910835434e-35,True
+BM25+ColBERT,Baseline_vs_WithContext,2,sequential_top2 - baseline,bleu,233,6.5100574983805264e-34,6.5100574983805264e-34,True
+BM25+ColBERT,Baseline_vs_WithContext,2,sequential_top2 - baseline,bertscore,233,1.2878984388293236e-57,1.2878984388293236e-57,True
+BM25+ColBERT,Baseline_vs_WithContext,3,sequential_top3 - baseline,rouge1,233,3.053564791431298e-54,3.053564791431298e-54,True
+BM25+ColBERT,Baseline_vs_WithContext,3,sequential_top3 - baseline,rouge2,233,1.1294073371012874e-46,1.1294073371012874e-46,True
+BM25+ColBERT,Baseline_vs_WithContext,3,sequential_top3 - baseline,rougeL,233,1.329226455266641e-37,1.329226455266641e-37,True
+BM25+ColBERT,Baseline_vs_WithContext,3,sequential_top3 - baseline,bleu,233,6.614230661731022e-37,6.614230661731022e-37,True
+BM25+ColBERT,Baseline_vs_WithContext,3,sequential_top3 - baseline,bertscore,233,1.013204952725267e-59,1.013204952725267e-59,True
+BM25+ColBERT,Baseline_vs_WithContext,4,sequential_top4 - baseline,rouge1,233,7.95567719186106e-58,7.95567719186106e-58,True
+BM25+ColBERT,Baseline_vs_WithContext,4,sequential_top4 - baseline,rouge2,233,1.054680635688439e-45,1.054680635688439e-45,True
+BM25+ColBERT,Baseline_vs_WithContext,4,sequential_top4 - baseline,rougeL,233,1.57343366128086e-39,1.57343366128086e-39,True
+BM25+ColBERT,Baseline_vs_WithContext,4,sequential_top4 - baseline,bleu,233,6.743477136456995e-36,6.743477136456995e-36,True
+BM25+ColBERT,Baseline_vs_WithContext,4,sequential_top4 - baseline,bertscore,233,4.905665243810411e-64,4.905665243810411e-64,True
+BM25+ColBERT,Baseline_vs_WithContext,5,sequential_top5 - baseline,rouge1,233,1.5430212897848113e-53,1.5430212897848113e-53,True
+BM25+ColBERT,Baseline_vs_WithContext,5,sequential_top5 - baseline,rouge2,233,1.930515291004108e-48,1.930515291004108e-48,True
+BM25+ColBERT,Baseline_vs_WithContext,5,sequential_top5 - baseline,rougeL,233,4.742251419874587e-39,4.742251419874587e-39,True
+BM25+ColBERT,Baseline_vs_WithContext,5,sequential_top5 - baseline,bleu,233,4.746271637012825e-41,4.746271637012825e-41,True
+BM25+ColBERT,Baseline_vs_WithContext,5,sequential_top5 - baseline,bertscore,233,3.5945245036119114e-60,3.5945245036119114e-60,True
+BM25only,Baseline_vs_WithContext,1,sequential_top1 - baseline,rouge1,233,2.5528090430733274e-39,2.5528090430733274e-39,True
+BM25only,Baseline_vs_WithContext,1,sequential_top1 - baseline,rouge2,233,1.0942411466709695e-30,1.0942411466709695e-30,True
+BM25only,Baseline_vs_WithContext,1,sequential_top1 - baseline,rougeL,233,4.118087656307225e-31,4.118087656307225e-31,True
+BM25only,Baseline_vs_WithContext,1,sequential_top1 - baseline,bleu,233,8.063833679008345e-25,8.063833679008345e-25,True
+BM25only,Baseline_vs_WithContext,1,sequential_top1 - baseline,bertscore,233,3.5719290284153554e-36,3.5719290284153554e-36,True
+BM25only,Baseline_vs_WithContext,2,sequential_top2 - baseline,rouge1,233,3.16650792564273e-45,3.16650792564273e-45,True
+BM25only,Baseline_vs_WithContext,2,sequential_top2 - baseline,rouge2,233,2.7489006503022086e-35,2.7489006503022086e-35,True
+BM25only,Baseline_vs_WithContext,2,sequential_top2 - baseline,rougeL,233,1.2743925817970074e-29,1.2743925817970074e-29,True
+BM25only,Baseline_vs_WithContext,2,sequential_top2 - baseline,bleu,233,4.954276282229346e-28,4.954276282229346e-28,True
+BM25only,Baseline_vs_WithContext,2,sequential_top2 - baseline,bertscore,233,3.5425969890225296e-49,3.5425969890225296e-49,True
+BM25only,Baseline_vs_WithContext,3,sequential_top3 - baseline,rouge1,233,7.960258262227347e-51,7.960258262227347e-51,True
+BM25only,Baseline_vs_WithContext,3,sequential_top3 - baseline,rouge2,233,2.8419313328990357e-41,2.8419313328990357e-41,True
+BM25only,Baseline_vs_WithContext,3,sequential_top3 - baseline,rougeL,233,7.186678394446012e-34,7.186678394446012e-34,True
+BM25only,Baseline_vs_WithContext,3,sequential_top3 - baseline,bleu,233,2.541935308184332e-35,2.541935308184332e-35,True
+BM25only,Baseline_vs_WithContext,3,sequential_top3 - baseline,bertscore,233,5.328505247462242e-62,5.328505247462242e-62,True
+BM25only,Baseline_vs_WithContext,4,sequential_top4 - baseline,rouge1,233,4.762107019551293e-51,4.762107019551293e-51,True
+BM25only,Baseline_vs_WithContext,4,sequential_top4 - baseline,rouge2,233,8.825638861934541e-43,8.825638861934541e-43,True
+BM25only,Baseline_vs_WithContext,4,sequential_top4 - baseline,rougeL,233,1.1001798331062696e-34,1.1001798331062696e-34,True
+BM25only,Baseline_vs_WithContext,4,sequential_top4 - baseline,bleu,233,2.3134955069094768e-35,2.3134955069094768e-35,True
+BM25only,Baseline_vs_WithContext,4,sequential_top4 - baseline,bertscore,233,4.6746768285613664e-60,4.6746768285613664e-60,True
+BM25only,Baseline_vs_WithContext,5,sequential_top5 - baseline,rouge1,233,7.691035530863631e-54,7.691035530863631e-54,True
+BM25only,Baseline_vs_WithContext,5,sequential_top5 - baseline,rouge2,233,4.9649994207879295e-46,4.9649994207879295e-46,True
+BM25only,Baseline_vs_WithContext,5,sequential_top5 - baseline,rougeL,233,5.981606934234505e-37,5.981606934234505e-37,True
+BM25only,Baseline_vs_WithContext,5,sequential_top5 - baseline,bleu,233,1.4703956985867716e-36,1.4703956985867716e-36,True
+BM25only,Baseline_vs_WithContext,5,sequential_top5 - baseline,bertscore,233,1.8134026414649274e-62,1.8134026414649274e-62,True
